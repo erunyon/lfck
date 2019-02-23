@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16d0d5c2-0230-48c7-9357-736bbdf298b2/deploy-status)](https://app.netlify.com/sites/lfck/deploys)
+
 # Jekyll Netlify Boilerplate
 
 *Note: Check out my [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate). It does pretty much the same as this project but uses the [Eleventy](https://www.11ty.io/) static site generator. It's fast, flexible and doesn't require Ruby.*
