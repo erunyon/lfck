@@ -4,5 +4,5 @@ title: Tuition Success
 permalink: /tuition/success
 section: tuition
 intro_paragraph: >
-  Some text about tuition success.
+  Some text about tuition subscription success.
 ---

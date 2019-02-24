@@ -38,10 +38,6 @@ sass:
   style: compressed
   sass_dir: _sass
 
-# Compress HTML (in liquid via layouts/compress.html)
-# compress_html:
-#   clippings: all
-
 # set some common post defaults
 defaults:
   -
